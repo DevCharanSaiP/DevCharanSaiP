@@ -1,4 +1,4 @@
-# Hi, I'm Charan Sai 👋
+# Hi, I'm Dev 👋
 
 🎓 **B.Tech CSE | AIML Student**  
 💻 **Tech Stack:** Python, Java  
