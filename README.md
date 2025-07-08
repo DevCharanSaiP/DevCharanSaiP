@@ -9,7 +9,7 @@ I am proficient in building Proofs of Concept (PoCs), refactoring legacy code, a
 **Bachelor of Technology in Computer Science and Engineering (AIML)**
 VIT Bhopal University, Bhopal, Madhya Pradesh
 July 2022 - May 2026
-CGPA: 8.08/10
+CGPA: 8.22/10
 
 ## Technical Proficiency
 
