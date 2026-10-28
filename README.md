@@ -41,7 +41,7 @@ Building thoughtful AI systems where technical depth meets practical outcomes.
 
 ---
 
-## 01 - Perspective
+## Perspective
 
 I work at the intersection of AI research and engineering, with interests in privacy-aware machine learning, language-model applications, and systems that help people solve practical problems.
 
@@ -57,7 +57,7 @@ My approach is grounded in **careful experimentation, sound implementation, and 
 
 </details>
 
-## 02 - Areas of focus
+## Areas of focus
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ My approach is grounded in **careful experimentation, sound implementation, and 
   </tr>
 </table>
 
-## 03 - Selected work
+## Selected work
 
 <sub>A selection of projects spanning AI applications, experimentation, and applied machine learning.</sub>
 
@@ -149,7 +149,7 @@ Browse the [full project archive](https://devcharansaip.github.io/dev.portfolio/
 
 </details>
 
-## 04 - Toolkit
+## Toolkit
 
 <table>
   <tr>
@@ -186,7 +186,7 @@ Browse the [full project archive](https://devcharansaip.github.io/dev.portfolio/
 
 </div>
 
-## 05 - Credentials
+## Credentials
 
 Selected credentials in AI engineering, machine learning, cloud, and generative AI.
 
@@ -201,7 +201,7 @@ Selected credentials in AI engineering, machine learning, cloud, and generative 
 
 [Explore all credentials ↗](https://devcharansaip.github.io/dev.portfolio/certifications.html)
 
-## 06 - Working method
+## Working method
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Selected credentials in AI engineering, machine learning, cloud, and generative 
 
 </div>
 
-## 07 - Connect
+## Connect
 
 Interested in applied AI, machine-learning engineering, research collaboration, or building practical AI-enabled products? Let's talk.
 
